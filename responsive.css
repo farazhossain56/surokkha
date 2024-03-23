@@ -1,0 +1,113 @@
+@media only screen and (min-width:768px) and (max-width:992px){
+
+.container{width:768px;
+margin:0 auto;
+}
+	
+	.col-1{padding: 101px 6px;}
+	.main-hotline{ padding: 6px 0px;}
+.hotline-itm{text-align: center;}
+.hotline-itm p,span{font-size: 11px;}
+.hotline-itm :last-child{
+*box-sizing: border-box;
+margin-right: 0px;	
+}
+.main-app{flex-wrap: wrap;}
+.download{width:900px;}
+.download h4{margin-left:299px;margin-top:55px;margin-bottom: 20px;}
+.download{margin-left:67px;}
+.menu-items{display:none;}
+.row-img{width:300px;}
+.row-img img{width:100%;}
+}
+
+
+@media only screen and (min-width:500px) and (max-width:768px){
+
+	.container{width:500px;
+		}
+		*{box-sizing: border-box;}
+	.po{flex-wrap: wrap;}
+	#main-banner{
+.
+
+		height: 843px;
+	}
+	.col-1 {flex-wrap:wrap;
+		padding: 64px 37px;}
+
+
+		.nibondon{margin-top:24px;}
+		.n-img{margin-top:18px;}
+	
+.icon-main{height:324px;
+width: 800px;
+margin-bottom: 8px;}
+.icon-main::before{top:318px;left:96px;}
+.nibondon-status{width:800px;
+margin-left:0;}
+.status{margin-bottom: 7px;}
+.main-app{flex-wrap: wrap;}
+.row-img{width:200px;}
+.row-img img{width:100%;}
+.single-items{width:70%;}
+.menu-items{display: none;}
+	}
+
+
+
+
+
+
+	@media (max-width:500px){
+*{box-sizing: border-box;}
+.container{width:400px;
+}
+.menu-items{flex-wrap: wrap;}
+.covid19{flex-wrap: wrap;}
+#main-banner{
+.
+
+	height: 843px;
+}
+.col-1 {flex-wrap:wrap;
+	padding: 64px 37px;}
+
+
+	.nibondon{margin-top:24px;}
+	.n-img{margin-top:18px;}
+
+.icon-main{height:324px;
+width: 800px;
+margin-bottom: 8px;}
+.icon-main::before{top:318px;left:96px;}
+.nibondon-status{width:800px;
+margin-left:0;}
+.status{margin-bottom: 7px;}
+.main-app{flex-wrap: wrap;}
+.row-img{width:200px;}
+.row-img img{width:100%;}
+.single-items{width:70%;}
+.pt{margin-left:122px;}
+.pt img{margin-left:-10px;}
+.row{flex-wrap: wrap;
+}
+.row-img:first-child {margin-left:82px;
+	}
+.kere{
+
+	flex-wrap: wrap;
+
+}
+.n-img{width:280px;}
+.n-img img{width:100%;}
+	}
+
+
+
+	.menu-items ul{
+
+flex-wrap: wrap;
+display:;
+
+	}
